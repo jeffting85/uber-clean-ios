@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings
+ TowRoute Provider
+
+  Created by Uplogic Technologies on 23/07/18.
+  Copyright © 2018 Admin. All rights reserved.
+*/
+
+
+"LOG IN" = "LOG IN";
+"WELCOME TO TowRoute Provider" = "WELCOME TO TowRoute Provider";
+"REGISTER" = "REGISTER";
+"@2021 TowRoute Provider" = "@2021 TowRoute Provider";
+"ENGLISH" = "ENGLISH";
+
+"We just need your registered Mobile no to sent your you password reset instruction" = "We just need your registered Mobile no to sent your you password reset instruction";
+"Country" = "Country";
+"Mobile" = "Mobile";
+"CONTINUE" = "CONTINUE";
+"Log out" = "Log out";
+"Your Balance" = "Your Balance";
+"VIEW TRANSACTIONS" = "VIEW TRANSACTIONS";
+"ADD MONEY" = "ADD MONEY";
+"it's safe and secure" = "it's safe and secure";
+"Recharge Amount" = "Recharge Amount";
+"Terms & Privacy Policy" = "Terms & Privacy Policy";
+"ADD MONEY" = "ADD MONEY";
+"No Jobs" = "No Jobs";
+"Job Location" = "Job Location";
+"Status:" = "Status:";
+"You can add up to 5 contacts" = "You can add up to 5 contacts";
+"Share Your Invite Code" = "Share Your Invite Code";
+"Invite your friends by sharing above invite code and earn the referral amount." = "Invite your friends by sharing above invite code and earn the referral amount.";
+"INVITE FRIENDS" = "INVITE FRIENDS";
+"Reason to contact" = "Reason to contact";
+"Your Query" = "Your Query";
+"SEND QUERY" = "SEND QUERY";
+"ABOUT EXPERT" = "ABOUT EXPERT";
+"NEXT" = "NEXT";
+"Booking Date" = "Booking Date";
+"Booking Time" = "Booking Time";
+"Promo Code(optional)" = "Promo Code(optional)";
+"Apply" = "Apply";
+"Add Special Instruction for towing driver" = "Add Special Instruction for towing driver";
+"CONTINUE" = "CONTINUE";
+"Your Location:" = "Your Location:";
+"How would You Like to Pay?" = "How would You Like to Pay?";
+"ADD CARD" = "ADD CARD";
+"BOOK NOW" = "BOOK NOW";
+"Pickup Location" = "Pickup Location";
+"Select Pickup Date and time" = "Select Pickup Date and time";
+"Pickup Date" = "Pickup Date";
+"Pickup Time" = "Pickup Time";
+"WELCOME TO TowRoute Provider" = "WELCOME TO TowRoute Provider";
+"First name" = "First name";
+"Last name" = "Last name";
+"Email" = "Email";
+"Country" = "Country";
+"Mobile" = "Mobile";
+"Password" = "Password";
+"Referral/invitecode(optional)" = "Referral/invitecode(optional)";
+"I agree to the Terms & Conditons and Privacy Policy" = "I agree to the Terms & Conditons and Privacy Policy";
+"Already have an account? Log in" = "Already have an account? Log in";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Language" = "Language";
+"Currency" = "Currency";
+"Select Service" = "Select Service";
+"Book Now" = "Book Now";
+"Book Later" = "Book Later";
+"JOB INPROGRESS" = "JOB INPROGRESS";
+"How's your ride? Rate Driver" = "How's your ride? Rate Driver";
+"Enter your comment" = "Enter your comment";
+"CANCEL" = "CANCEL";
+"RATE" = "RATE";
+"You have insufficient wallet  amount for this trip. So pay via online" = "You have insufficient wallet  amount for this trip. So pay via online";
+"PAY" = "PAY";
+"Forgot Password?" = "Forgot Password?";
+"Don't have an account?" = "Don't have an account?";
+"Remember me" = "Remember me";
+"Mobile verification" = "Mobile verification";
+"We have sent you the code on your mobile number.Please enter it below to privacy" = "We have sent you the code on your mobile number.Please enter it below to privacy";
+"SMS Sent to:" = "SMS Sent to:";
+"Enter Code here" = "Enter Code here";
+"SUBMIT" = "SUBMIT";
+"Enter the reset password and confirm password" = "Enter the reset password and confirm password";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"SUBMIT" = "SUBMIT";
+"PAST JOB DETAIL" = "PAST JOB DETAIL";
+"Driver" = "Driver";
+"Rating" = "Rating";
+"Trip Rating" = "Trip Rating";
+"THANKS FOR RIDING WITH US" = "THANKS FOR RIDING WITH US";
+"JOB REQUEST DATE TIME" = "JOB REQUEST DATE TIME";
+"JOB LOCATION" = "JOB LOCATION";
+"CHARGES" = "CHARGES";
+"Details" = "Details";
+"Current Charge" = "Current Charge";
+"Material Fee" = "Material Fee";
+"Misc Fee" = "Misc Fee";
+"Driver Discount" = "Driver Discount";
+"Total" = "Total";
+"How's your ride? Rate Driver" = "How's your ride? Rate Driver";
+"Enter your comment" = "Enter your comment";
+"RATE" = "RATE";
+"Your trip was successfully finished." = "Your trip was successfully finished.";
+
+"PENDING JOBS" = "PENDING JOBS";
+"UPCOMING JOBS" = "UPCOMING JOBS";
+"YOUR CURRENT LOCATION" = "YOUR CURRENT LOCATION";
+"Select the days you are available to work." = "Select the days you are available to work.";
+"Select category below to add services you are going to provide" = "Select category below to add services you are going to provide";
+"PENDING" = "PENDING";
+"UPCOMING" = "UPCOMING";
+"PAST" = "PAST";
+"Work Experience Certificate" = "Work Experience Certificate";
+"MANAGE" = "MANAGE";
+"Select or take Photo" = "Select or take Photo";
+"YOUR BALANCE" = "YOUR BALANCE";
+"Make Your travel safe" = "Make Your travel safe";
+
+
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>594906536794-25f3ojp6t3b2ak26rh31va0daimc1uke.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.594906536794-25f3ojp6t3b2ak26rh31va0daimc1uke</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCShJkBJnxnJm23h5OhklEynWg-BTk3kmA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>594906536794</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.towroute.provider</string>
+	<key>PROJECT_ID</key>
+	<string>service-scout-live</string>
+	<key>STORAGE_BUCKET</key>
+	<string>service-scout-live.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:594906536794:ios:75503691623c2006c7b163</string>
+	<key>DATABASE_URL</key>
+	<string>https://service-scout-live-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

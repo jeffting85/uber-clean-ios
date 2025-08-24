@@ -1,0 +1,49 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '11.0'
+
+target 'TowRoute Provider' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TowRoute Provider
+
+pod 'JVFloatLabeledTextField'
+pod 'IQKeyboardManagerSwift', '~> 6.5.0'
+pod 'Material', '~> 2.0'
+pod 'Alamofire', '~> 4.8'
+pod 'AlamofireImage', '~> 3.5'
+pod 'SlideMenuControllerSwift'
+pod 'ReachabilitySwift', '~> 3'
+pod 'SVProgressHUD'
+pod 'GoogleMaps', '~> 3.7.0'
+pod 'DropDown'
+pod 'libPhoneNumber-iOS'
+pod 'CountryPickerView'
+pod 'MaterialCard', :git => 'https://github.com/NathanWalker/MaterialCard.git', :branch => 'master'
+pod 'XLPagerTabStrip', '~> 8.0'
+pod 'HCSStarRatingView', '~> 1.5'
+
+pod 'Stripe', '~> 21.4.0'
+pod 'MarqueeLabel'
+pod 'FacebookCore','0.9.0'
+pod 'FacebookLogin','0.9.0'
+pod 'SDWebImage'
+pod 'Firebase/Auth'
+pod 'Firebase/Core'
+pod 'GeoFire'
+pod 'Firebase/Messaging'
+
+
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    if ['MaterialCard'].include? target.name
+      target.build_configurations.each do |config|
+        config.build_settings['SWIFT_VERSION'] = '4.0'
+      end
+    end
+  end
+
+end
+
+end

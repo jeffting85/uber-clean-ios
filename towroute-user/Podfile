@@ -1,0 +1,59 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '10.0'
+
+target 'TowRoute User' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TowRoute User
+
+pod 'JVFloatLabeledTextField'
+pod 'IQKeyboardManagerSwift', '~> 6.5.0'
+pod 'Material', '~> 2.0'
+pod 'Alamofire', '~> 4.8'
+pod 'AlamofireImage', '~> 3.5'
+pod 'SlideMenuControllerSwift'
+pod 'ReachabilitySwift', '~> 3'
+pod 'SVProgressHUD'
+pod 'GoogleMaps', '~> 3.7.0'
+pod 'GooglePlaces', '~> 3.7.0'
+
+pod 'FacebookCore','0.9.0'
+pod 'FacebookLogin','0.9.0'
+
+pod 'GoogleUtilities', '6.7.2'
+
+
+
+pod 'GeoFire'
+pod 'Firebase/Messaging'
+pod 'Firebase/Auth'
+pod 'Firebase/Core'
+
+pod 'Fabric'
+pod 'Crashlytics'
+pod 'DropDown’
+pod 'CountryPickerView'
+pod 'MaterialCard', :git => 'https://github.com/NathanWalker/MaterialCard.git', :branch => 'master'
+
+pod 'FloatRatingView'
+pod 'XLPagerTabStrip', '~> 8.0'
+pod 'Stripe', '~> 19.0.1'
+pod 'AFNetworking', '~> 4.0'
+pod 'SDWebImage'
+pod 'DatePickerDialog'
+pod 'libPhoneNumber-iOS'
+
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    if ['MaterialCard'].include? target.name
+      target.build_configurations.each do |config|
+        config.build_settings['SWIFT_VERSION'] = '4.0'
+      end
+    end
+  end
+
+end
+
+end

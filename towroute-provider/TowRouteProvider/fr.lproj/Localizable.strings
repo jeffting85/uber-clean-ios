@@ -1,0 +1,123 @@
+/* 
+  Localizable.strings
+  Towit Provider
+
+  Created by Uplogic Technologies on 23/07/18.
+  Copyright © 2018 Admin. All rights reserved.
+*/
+
+
+"LOG IN" = "s'identifier";
+"WELCOME TO TOWIT USER" = "BIENVENUE À TOWIT USER";
+"REGISTER" = "REGISTRE";
+"@2018 TOWIT" = "@ 2018 TOWIT";
+"ENGLISH" = "French";
+
+"We just need your registered Mobile no to sent your you password reset instruction" = "Nous avons juste besoin de votre mobile enregistré pour vous envoyer votre instruction de réinitialisation de mot de passe";
+"Country" = "Pays";
+"Mobile" = "Mobile";
+"CONTINUE" = "CONTINUER";
+"Log out" = "Connectez - Out";
+"Your Balance" = "Votre solde";
+"VIEW TRANSACTIONS" = "VOIR TRANSACTIONS";
+"ADD MONEY" = "AJOUTER DE L'ARGENT";
+"it's safe and secure" = "c'est sûr et sécurisé";
+"Recharge Amount" = "Quantité de recharge";
+"By Conducting you choose  to accept  cubeTowPlus's" = "En vous incitant à choisir d'accepter cubeTowPlus";
+"Terms & Privacy Policy" = "Conditions et politique de confidentialité";
+"ADD MONEY" = "AJOUTER DE L'ARGENT";
+"No Jobs" = "Aucun emploi";
+"Job Location" = "lieu de travail";
+"Status:" = "Statut:";
+"You can add up to 5 contacts" = "Vous pouvez ajouter jusqu'à 5 contacts";
+"Share Your Invite Code" = "Partagez votre code d'invitation";
+"Invite your friends by sharing above invite code and earn the referral amount." = "Invitez vos amis en partageant le code d'invitation ci-dessus et gagnez le montant du parrainage.";
+"INVITE FRIENDS" = "INVITER DES AMIS";
+"Reason to contact" = "Raison de contacter";
+"Your Query" = "Votre requête";
+"SEND QUERY" = "ENVOYER QUERY";
+"ABOUT EXPERT" = "À PROPOS D'EXPERT";
+"NEXT" = "PROCHAIN";
+"Booking Date" = "Date de réservation";
+"Booking Time" = "Heure de réservation";
+"Promo Code(optional)" = "Code promotionnel (Optionnel)";
+"Apply" = "Appliquer";
+"Add Special Instruction for towing driver" = "Ajouter une instruction spéciale pour le conducteur de remorquage";
+"CONTINUE" = "CONTINUER";
+"Your Location:" = "Ton emplacement:";
+"How would You Like to Pay?" = "Comment désirez-vous régler?";
+"ADD CARD" = "AJOUTER UNE CARTE";
+"BOOK NOW" = "RESERVE MAINTENANT";
+"Pickup Location" = "Lieu de ramassage";
+"Select Pickup Date and time" = "Sélectionnez la date et l'heure de collecte";
+"Pickup Date" = "Date de ramassage";
+"Pickup Time" = "Heure de ramassage";
+"WELCOME TO TOWIT PROVIDER" = "BIENVENUE AU FOURNISSEUR TOWIT";
+"First name" = "Prénom";
+"Last name" = "Nom de famille";
+"Email" = "Email";
+"Country" = "Pays";
+"Mobile" = "Mobile";
+"Password" = "Mot de passe";
+"Referral/invitecode(optional)" = "Referral / invitecode (optionnel)";
+"I agree to the Terms & Conditons and Privacy Policy" = "J'accepte les termes et conditions et la politique de confidentialité";
+"Already have an account? Log in" = "Vous avez déjà un compte? S'identifier";
+"First Name" = "Prénom";
+"Last Name" = "Nom de famille";
+"Language" = "La langue";
+"Currency" = "Devise";
+"Select Service" = "Devise";
+"Book Now" = "Reserve maintenant";
+"Book Later" = "Réservez plus tard";
+"JOB INPROGRESS" = "INSPECTION D'EMPLOI";
+"How's your ride? Rate Driver" = "Comment va ton tour? Taux de pilote";
+"Enter your comment" = "Entrez votre commentaire";
+"CANCEL" = "ANNULER";
+"RATE" = "TAUX";
+"You have insufficient wallet  amount for this trip. So pay via online" = "Vous avez un montant de portefeuille insuffisant pour ce voyage. Alors payez en ligne";
+"PAY" = "PAYER";
+"Forgot Password?" = "Mot de passe oublié?";
+"Don't have an account?" = "Vous n'avez pas de compte?";
+"Remember me" = "Souviens-toi de moi";
+"Mobile verification" = "Vérification mobile";
+"We have sent you the code on your mobile number.Please enter it below to privacy" = "Nous vous avons envoyé le code sur votre numéro de téléphone mobile.Veuillez l'entrer ci-dessous pour la confidentialité";
+"SMS Sent to:" = "SMS envoyé à:";
+"Enter Code here" = "Entrez le code ici";
+"SUBMIT" = "SOUMETTRE";
+"Enter the reset password and confirm password" = "Entrez le mot de passe de réinitialisation et confirmez mot de passe";
+"Password" = "Mot de passe";
+"Confirm Password" = "Confirmez le mot de passe";
+"SUBMIT" = "SOUMETTRE";
+"PAST JOB DETAIL" = "DÉTAIL DE TRAVAIL PASSÉ";
+"Driver" = "Chauffeur";
+"Rating" = "Évaluation";
+"Trip Rating" = "Évaluation du voyage";
+"THANKS FOR RIDING WITH US" = "MERCI D'AVOIR FAIT US";
+"JOB REQUEST DATE TIME" = "DEMANDE D'EMPLOI DATE HEURE";
+"JOB LOCATION" = "LIEU DE TRAVAIL";
+"CHARGES" = "DES CHARGES";
+"Details" = "Détails";
+"Current Charge" = "Charge actuelle";
+"Material Fee" = "Frais de matériel";
+"Misc Fee" = "Frais divers";
+"Driver Discount" = "Remise du pilote";
+"Total" = "Total";
+"How's your ride? Rate Driver" = "Comment va ton tour? Taux de pilote";
+"Enter your comment" = "Entrez votre commentaire";
+"RATE" = "TAUX";
+"Your trip was successfully finished." = "Votre voyage a été terminé avec succès.";
+
+"PENDING JOBS" = "EMPLOIS EN ATTENTE";
+"UPCOMING JOBS" = "PROCHAINS TRAVAUX";
+"YOUR WORK LOCATION" = "VOTRE EMPLACEMENT DE TRAVAIL";
+"Select the days you are available to work." = "Sélectionnez les jours où vous êtes disponible pour travailler.";
+"Select category below to add services you are going to provide" = "Sélectionnez la catégorie ci-dessous pour ajouter les services que vous allez fournir";
+"PENDING" = "EN ATTENDANT";
+"UPCOMING" = "PROCHAIN";
+"PAST" = "PASSÉ";
+"Work Experience Certificate" = "Certificat d'expérience de travail";
+"MANAGE" = "GÉRER";
+"Select or take Photo" = "Sélectionnez ou prenez une photo";
+"YOUR BALANCE" = "VOTRE SOLDE";
+"Make Your travel safe" = "Assurez votre voyage en toute sécurité";
+"Send alert to your friends/family members in case of an emergency.Please add them to your emaergency contacts" = "Envoyer une alerte à vos amis / membres de la famille en cas d'urgence.Veuillez les ajouter à vos contacts d'urgence";
